@@ -1,6 +1,8 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 <p align="center">
-<a href="https://www.linkedin.com/in/iveschiba/" target="blank"><img align="center" src="https://icons8.com.br/icon/xuvGCOXi8Wyg/linkedin" alt="linkedin_link" height="30" width="30" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/iveschiba/" target="blank">
+      <img align="center" src=""https://skillicons.dev/icons?i=git" alt="linkedin_link" height="30" width="30" />
+</a>;
 </p>
 
 
