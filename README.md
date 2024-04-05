@@ -37,7 +37,7 @@
 </p>
 
 ---
-### <img src='https://upload.wikimedia.org/wikipedia/commons/e/e5/Brain_Food_-_Idil_Keysan_-_Wikimedia_Giphy_stickers_2019.gif' width='30'>What I pretend to learn:
+### <img src='https://upload.wikimedia.org/wikipedia/commons/e/e5/Brain_Food_-_Idil_Keysan_-_Wikimedia_Giphy_stickers_2019.gif' width='30'>What I intend to learn:
 
 <p align="center">
       <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="55" height="55"/> 
