@@ -25,7 +25,8 @@
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" alt="maven" width="55" height="55"/>
+      <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="maven" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
 <!--       <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
@@ -33,15 +34,12 @@
       <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/> -->
       <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracleSQL" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="JIRA" width="55" height="55"/>
 </p>
 
 ---
 ### <img src='https://upload.wikimedia.org/wikipedia/commons/e/e5/Brain_Food_-_Idil_Keysan_-_Wikimedia_Giphy_stickers_2019.gif' width='30'>What I intend to learn:
 
 <p align="center">
-      <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="55" height="55"/> 
-      <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" width="55" height="55"/>
       <img src="https://skillicons.dev/icons?i=ruby" alt="RUBY" width="55" height="55"/>
       <img src="https://skillicons.dev/icons?i=go" alt="GO" width="55" height="55"/>
       <img src="https://skillicons.dev/icons?i=nodejs" alt="NODEJS" width="55" height="55"/>
